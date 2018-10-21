@@ -15,7 +15,7 @@ In der 3. Klasse lernen wir in ITP wie man ein Projekt plant und erstellt. So mu
 
 Auf dem Boden wird eine Art "Schachbrett-Muster" gezeichnet. Eine Person sucht sich einen Weg durch das Muster, wobei die einzelnen
 Positionen mithilfe von Ultraschall-Entfernungsmessern (Raspberry PI) abgespeichert werden.
-Danach überquert eine zweite Person das Feld. Über ein akustisches Signal erfährt die Person, ob dieses Feld schon zuvor gewählt wurde.
+Danach überquert eine zweite Person das Muster. Über ein akustisches Signal erfährt die Person, ob das aktuelle Feld schon zuvor betreten wurde.
 Ziel ist es das Feld möglichst "fehlerfrei" zu überqueren.
 
 Die Wege und Ergebnisse sollen dann auf einer Website dargestellt werden.
